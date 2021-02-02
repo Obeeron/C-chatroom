@@ -1,2 +1,3 @@
 # C-chatroom
-Chatroom made with TCP multithreaded sockets
+Chatroom made with TCP multithreaded sockets  
+WIP
